@@ -15,6 +15,7 @@ button {
 a {
     color: white;
     text-decoration: none;
+    text-animation: none;
 }
 
 h2 {
